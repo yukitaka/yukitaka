@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukitaka&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=yukitaka&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🌱 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukitaka&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔭 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yukitaka&theme=dracula)](https://git.io/streak-stats)
