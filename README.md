@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukitaka&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yukitaka&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yukitaka&theme=dracula)](https://git.io/streak-stats)
